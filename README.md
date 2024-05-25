@@ -1,8 +1,13 @@
-**Chips Selling Website**
+######Chips Selling Website######
 Welcome to the Chips Selling Website! This project is a simple and user-friendly platform to showcase and sell a variety of chips online. The website is built using HTML, CSS, and JavaScript, ensuring a smooth and responsive user experience. This README will guide you through the project description, steps to clone the repository from GitHub, and instructions on how to run the website locally.
+
+
 
 Description
 The Chips Selling Website is designed to provide an easy and engaging way for users to browse and purchase different types of chips. The website features a clean and modern interface, with intuitive navigation and a seamless purchasing process. Users can view product details, add items to their cart, and proceed to checkout with ease. The website is fully responsive, ensuring it looks great on both desktop and mobile devices.
+
+
+
 
 **Steps to Clone from GitHub and run the website**
 To get a copy of this project up and running on your local machine, follow these simple steps:
